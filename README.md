@@ -11,7 +11,8 @@ O foco principal é a criação e manipulação de dados por meio de operações
 ### Tela Sobre
 ![TelaSobre](https://github.com/user-attachments/assets/7483be0e-f41f-48f6-8308-4c49964c7fb8)
 ### Tela de impressão da Os
-![ImprimirOs](https://github.com/user-attachments/assets/803a5564-3240-49ac-a46a-3292c606824a)
+![ImprimirOs](https://github.com/user-attachments/assets/2c1945b3-bdd5-49ce-a419-0640a63df40e)
+
 
 O projeto foi desenvolvido o Java **versão 8** instalado (só funciona corretamente nesta versão do Java). 
 
